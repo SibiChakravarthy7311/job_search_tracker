@@ -1,0 +1,6 @@
+# Markdown and CSV are the whole repo. Normalise to LF so a Windows and a
+# macOS/Linux crew member never see a whole-file diff on someone else's commit.
+* text=auto eol=lf
+
+# Keep CSV diffs readable in review
+*.csv text eol=lf diff
