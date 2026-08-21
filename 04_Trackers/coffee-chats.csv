@@ -1,0 +1,2 @@
+date,company,contact_initials,contact_role,seniority,how_arranged,duration_min,intro_offered,intro_names,hiring_signal,referral_offered,followup_sent,next_touch_date,notes_file,rating
+2026-08-25,ExampleCorp,P.K.,Senior Backend Engineer,senior-ic,linkedin-outreach,25,yes,1,team hiring in Q4,no,yes,2026-10-25,logs/chat-examplecorp-pk.md,4

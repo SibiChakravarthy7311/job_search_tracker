@@ -1,0 +1,4 @@
+# Daily fresh-jobs sweep
+python-jobspy>=1.1.70   # aggregates LinkedIn, Indeed, Glassdoor, ZipRecruiter, Google Jobs
+PyYAML>=6.0             # config parsing
+pandas>=2.0             # pulled in by jobspy; listed so the optional analysis snippets work

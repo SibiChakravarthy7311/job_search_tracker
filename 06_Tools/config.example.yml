@@ -1,0 +1,57 @@
+# fresh_jobs.py configuration
+#
+# Copy to config.yml and edit. config.yml is gitignored, so each crew member keeps
+# their own search without stepping on anyone else's.
+#
+#   cp config.example.yml config.yml
+
+# ---------------------------------------------------------------- what to search for
+# Title variants matter more than you would expect. The same job is posted as
+# "Software Engineer" at one company and "Member of Technical Staff" at another.
+# Missing a variant means missing a whole category of postings.
+search_terms:
+  - "software engineer"
+  - "backend engineer"
+  - "machine learning engineer"
+  - "computer vision engineer"
+  - "data engineer"
+
+# Leave one entry empty ("") to include remote and unspecified-location postings.
+locations:
+  - "Toronto, ON"
+  - "Halifax, NS"
+  - ""
+
+# Supported: linkedin, indeed, glassdoor, zip_recruiter, google
+# Start with two. More sites means slower runs and more rate-limiting.
+sites:
+  - linkedin
+  - indeed
+
+# Indeed needs a country. e.g. canada, usa, uk, india, germany
+country_indeed: canada
+
+# Per (term, location) pair. 40 x 5 terms x 3 locations is already a lot of postings.
+results_per_search: 40
+
+# ------------------------------------------------------------------ target companies
+# Your 10-15 from 01_Crew/members/<you>/TARGET-COMPANIES.md.
+# Matching is loose — "Example Corp" matches "Example Corp, Inc." and "ExampleCorp".
+# These get pinned to the top of the digest and flagged with the outreach-first rule.
+target_companies:
+  - "Example Corp"
+  - "Another Company"
+  # - add yours
+
+# ------------------------------------------------------------------------- filtering
+# Matched against the job TITLE only, case-insensitive. Keep this list short —
+# over-filtering is how you miss the role that was worth applying to.
+exclude_keywords:
+  - "senior staff"
+  - "principal"
+  - "director"
+  - "vp "
+  - "manager"
+  - "intern"        # remove this if you want internships
+  - "unpaid"
+  - "commission only"
