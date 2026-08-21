@@ -52,7 +52,7 @@ Evidence and sources: [05_Knowledge/WHY-THIS-WORKS.md](05_Knowledge/WHY-THIS-WOR
 ## Repo map
 
 ```
-Job_Search_Tracker/
+job_search_tracker/
 ├── 00_Start_Here/       Quickstart, the non-negotiable rules, the vocabulary
 ├── 01_Crew/             Charter, roster, accountability protocol, per-member folders
 │   └── members/         One folder per person. Your goals, targets, logs live here
