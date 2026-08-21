@@ -225,7 +225,7 @@ problem to solve.
 
 ## Where these came from
 
-- **Mentor conversations** — practitioners in tech and finance, independently corroborating on
+- **Mentor conversations** — technology practitioners, independently corroborating on
   networking, timing, and negotiation. Condensed in [MENTOR-WISDOM.md](MENTOR-WISDOM.md)
 - **Published research** — ATS behaviour and formatting studies, application-timing research,
   ghost-job prevalence surveys, resume-screening bias auditing

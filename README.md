@@ -1,4 +1,4 @@
-# Job Search Crew
+# Job Search Tracker
 
 > A shared, updatable job-search operating system for a small crew — two people to start,
 > more if they earn it.
@@ -52,7 +52,7 @@ Evidence and sources: [05_Knowledge/WHY-THIS-WORKS.md](05_Knowledge/WHY-THIS-WOR
 ## Repo map
 
 ```
-job-search-crew/
+Job_Search_Tracker/
 ├── 00_Start_Here/       Quickstart, the non-negotiable rules, the vocabulary
 ├── 01_Crew/             Charter, roster, accountability protocol, per-member folders
 │   └── members/         One folder per person. Your goals, targets, logs live here

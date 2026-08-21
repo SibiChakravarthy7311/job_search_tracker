@@ -1,7 +1,7 @@
 # Mentor Wisdom
 
-> Condensed from conversations with working professionals — engineers, people in finance and
-> computing, family members further along a career. Attributed by role rather than by name.
+> Condensed from conversations with working professionals in technology and computing. Attributed
+> by role rather than by name.
 >
 > This is the primary source material behind most of the playbooks. It is kept separate from the
 > playbooks so you can see the raw advice and judge it yourself.
@@ -10,8 +10,7 @@
 
 ## On networking — the strongest and most repeated theme
 
-*From a Finance & Computing graduate now working abroad, whose two roles both came without an
-application.*
+*From a computing graduate now working abroad, whose two roles both came without an application.*
 
 **The core claim:** competition on public postings is too high to win on merit alone. The only
 durable leverage is already being in conversation with people inside a company before a role is
@@ -59,63 +58,17 @@ regardless of mood.
 
 ---
 
-## On skill, mastery, and the long game
+## On skills that improve the search
 
 *From a senior engineer, on career direction rather than tactics.*
 
-- **Become as good as you can at what you actually enjoy.** Money follows mastery; it does not
-  work in the other direction. "If you do something just to make money, you will not enjoy the
-  process"
-- **Intelligent people do not necessarily earn well. *Smart* people do** — the ones who connect
-  their skills to real opportunities. The connection-making is the skill, not the raw ability
 - **Be strong in the fundamentals.** Without solid basics you cannot project a problem
   intuitively or envision the shape of a solution
 - **Keep updating your skills even after you have a job.** If your employer supports it, good.
   If not, do it anyway, on your own time
-- **Compete with your past self, not with other people.** The framing that lasts: *"Can I go one
-  step further? Can I do that?"*
-- **You cannot plan your way to being an outlier.** Enjoy the process, solve someone's real
-  problem, and the money follows
-- **Take it a little more easily.** Happiness is a byproduct; it cannot be chased directly
 
-**Why this is in a job-search repo:** a search run purely as a numbers game burns people out in
-about three months. This is the counterweight, and the crew's support function exists partly to
-carry it.
-
----
-
-## On evaluating a path before committing
-
-*From a family member with a research background.*
-
-- **Before committing to a long path — a PhD, a specialization, a relocation — look at where
-  people who took it actually ended up.** What industries, what positions, what trajectory. Not
-  the brochure; the actual outcomes of actual graduates
-- Keep the financial picture honest and separate from the career picture. Know your runway
-
-**Generalized:** for any large commitment, find 5-10 people who made it 3-5 years ago and look at
-where they are now. And if you can, talk to them — that is a coffee chat with an unusually clear
-purpose.
-
----
-
-## On finances, in parallel with the search
-
-Not job-search advice, but it came from the same conversations and it matters to anyone about to
-receive a first real salary.
-
-- **Open the tax-advantaged accounts available in your country as early as you are eligible.**
-  Contribution room often accrues from the date you become a resident or taxpayer, whether or not
-  you use it. Starting the clock costs nothing
-- **A broad index fund is the reliable baseline.** Start small, start early
-- **If your institution offers financial tooling or training** — a market data lab, a free
-  certification, a Bloomberg terminal — use it. One person described taking the intro course as
-  one of the best decisions they made, and noted that almost nobody with access uses it
-- **On equity:** in startups, ownership is what generates real upside. A salary makes you
-  comfortable; equity is the other thing. Weigh it accordingly when comparing offers
-
-*Country-specific details deliberately omitted — the account names differ everywhere. The
-principle does not.*
+**Why this is in a job-search repo:** fundamentals and current skills improve both applications
+and interview performance.
 
 ---
 
@@ -141,8 +94,9 @@ If all of the above compressed to five lines:
 1. **Talk to people, even when it is uncomfortable.** It is the only real leverage
 2. **Be mechanical about it** — schedule it, track it, do not let it depend on mood
 3. **Get genuinely good at something**, and keep getting better after you are hired
-4. **Look at where a path actually leads** before committing years to it
-5. **Compete with your past self.** The comparison to other people is noise
+4. **Keep your skills current.** Fundamentals and relevant practice improve every stage of the
+  process
+5. **Use adjacent sectors and markets.** They can offer relevant roles with less competition
 
 ---
 

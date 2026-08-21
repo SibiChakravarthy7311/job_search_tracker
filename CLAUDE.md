@@ -1,4 +1,4 @@
-# CLAUDE.md — Job Search Crew
+# CLAUDE.md — Job Search Tracker
 
 > Context file for any AI assistant or new human reader working in this repo.
 > Read this first, then [README.md](README.md).
