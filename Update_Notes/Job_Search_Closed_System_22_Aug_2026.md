@@ -6,7 +6,7 @@ Treat it as a full-time job. Everything below is designed to be run from one tra
 
 ---
 
-## 0. Set up today (2–3 hours, one time)
+## 0. Initial planning setup (2–3 hours, once a week)
 
 | # | Task | Output |
 |---|---|---|
