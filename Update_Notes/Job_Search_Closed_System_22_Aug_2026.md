@@ -27,7 +27,7 @@ build, and it only works if the source registry exists first.
 - **Tier 2 (Strong fit, 12–20):** apply on posting, outreach on posting.
 - **Tier 3 (Volume, open-ended):** apply if the role fits; outreach only if a warm contact exists.
 
-Build the list on **field**, not just geography: computer vision, applied ML/AI research, agri-tech and precision agriculture, biotech/health imaging, robotics, plus the ML teams at banks, telecoms, and consultancies with Halifax/Atlantic or remote-Canada presence.
+Build the list on **field**, not just geography: computer vision, applied ML/AI research, robotics, data and ML platform work, plus the ML teams inside industries that are not software companies (banks, telecoms, healthcare, agriculture, consultancies) — those have far less competition. Then filter on the regions you can actually work in, plus remote.
 
 Each week, add 3–5 new companies. The list is never finished.
 
@@ -57,7 +57,7 @@ Sources to cover:
 - **Tier 1 company career pages** — they post there before aggregators index them. Find the underlying ATS board (Greenhouse, Lever, Workday, Ashby, BambooHR); those usually have a clean, stable JSON or RSS endpoint behind the pretty page.
 - **LinkedIn job alerts** — one saved alert per role keyword × per location setting, notifications ON, set to daily. Delivered as email into a dedicated inbox folder. **Alerts, not scraping** — see the guardrails below.
 - **Aggregators:** Indeed, Glassdoor, Google Jobs, Otta/Welcome to the Jungle, Wellfound (startups).
-- **AI/ML-specific boards** and Canadian academic/research boards for research-scientist roles.
+- **AI/ML-specific boards** and the academic and government research boards for the regions you can work in, if research-scientist roles are in scope.
 - **University and government research postings** if research roles are in scope.
 - **People you follow at target companies** — teams often post openings personally before HR does. This one stays manual; it is a feed to read, not a feed to parse.
 
@@ -166,7 +166,7 @@ whole approach.
 
 ### The cold email — four things, nothing more
 
-1. **Who you are** — one line: your university plus what you actually do ("<university> alum, AI researcher"). That is the opening.
+1. **Who you are** — one line: your university plus what you actually do ("<university> alum, <what you build>"). That is the opening.
 2. **Why them specifically** — the hook, built from the signals above. This is the part that gets replies.
 3. **The ask** — 15 minutes.
 4. **Availability** — two concrete options, then flexibility.
@@ -343,7 +343,7 @@ Build in that order. The tracker is the system; the scripts only make it faster.
 
 ## Calibration — what we're running
 
-**Positioning.** Lead as **an alum of your university, and as what you actually build** — e.g. "<university> alum, AI researcher". That is the first line of most outreach
+**Positioning.** Lead as **an alum of your university, and as what you actually build** — e.g. "<university> alum, <what you build>". That is the first line of most outreach
 and the reason a stranger opens the reply box. The alumni angle is the strongest single lever in this plan,
 and the whole targeting strategy in Section 3 is built on it.
 
@@ -351,4 +351,4 @@ and the whole targeting strategy in Section 3 is built on it.
 Day 3 / Day 7 across three people at a company, follow-up on E1 at Day 14. Run it as written for a few
 weeks; adjust once there is real reply data to adjust against.
 
-One practical note: for cold outreach in Canada, keep emails to work addresses, tied to that person's professional role, with a clear identification of who you are and a way to opt out of further contact. That's both good manners and how CASL expects business outreach to look.
+One practical note: for cold outreach, keep emails to work addresses, tied to that person's professional role, with a clear identification of who you are and a way to opt out of further contact. That is both good manners and what commercial-email law expects almost everywhere — CASL, CAN-SPAM, and GDPR/PECR all converge on the same shape.

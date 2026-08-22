@@ -19,7 +19,7 @@ search_terms:
 # Leave one entry empty ("") to include remote and unspecified-location postings.
 locations:
   - "Toronto, ON"
-  - "Halifax, NS"
+  - "Vancouver, BC"
   - ""
 
 # Supported: linkedin, indeed, glassdoor, zip_recruiter, google

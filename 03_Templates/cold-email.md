@@ -25,19 +25,18 @@ mark, and anything that reads like a newsletter.
 The highest-response version. Use it whenever the shared thing is real.
 
 ```
-Subject: Dalhousie grad — quick question about the perception team at Nuro
+Subject: [University] grad — quick question about the [team] team at [company]
 
-Hi Priya,
+Hi [Name],
 
-Always good to see another Dalhousie grad working in computer vision. I'm
-finishing my MSc there now, and your name came up while I was looking at where
+Always good to see another [University] grad working in [field]. I'm finishing
+my [degree] there now, and your name came up while I was looking at where
 people from the program end up.
 
-I've spent the last year building a vision pipeline for livestock monitoring —
-multi-camera tracking on live video, running on edge hardware, currently
-deployed on a working farm. I'm moving toward perception and ML engineering
-roles, and the work your team is doing on real-time detection is very close to
-what I want to be doing next.
+I've spent the last year building [your project in one line] — [the technical
+detail that makes it real], [where it runs and at what scale]. I'm moving
+toward [target role] roles, and the work your team is doing on [their specific
+thing] is very close to what I want to be doing next.
 
 If you have fifteen minutes in the next few weeks, I'd really value hearing
 about your experience there and how you found the transition from school. I'm
@@ -45,8 +44,8 @@ usually free Tuesday and Thursday mornings, but happy to work around your
 schedule.
 
 Thanks for your time,
-Sam Rivera
-linkedin.com/in/samrivera · github.com/samrivera
+[Your name]
+[LinkedIn] · [GitHub]
 [resume attached]
 ```
 
